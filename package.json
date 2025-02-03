@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://<username>.github.io/<repo-name>",
+  "homepage": "https://ankitkumar285.github.io/New-Todo-web/",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
